@@ -272,3 +272,7 @@ NOT lógico (!) <br />
 ### If ternário ###
 
 condicao ? valor1 : valor2
+
+# Prática Aula 04
+
+**Enunciado:** 
