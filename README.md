@@ -310,6 +310,83 @@ NOT lógico (!) <br />
 
 condicao ? valor1 : valor2
 
-# Prática Aula 04
+## Prática Aula 04
 
-**Enunciado:** 
+* Principais versões do Javascript/Typescript
+* Conjunto de ferramentas de desenvolvimento
+* Diferenças entre Javascript x Typescript
+
+### Principais versões do Javascript/Typescript ###
+
+Javascript:
+```
+ECMAScript 1 (1997)
+ECMAScript 2 (1998)
+ECMAScript 3 (1999)
+ECMAScript 4	Never released.
+ECMAScript 5 (2009)
+ECMAScript 5.1 (2011)
+ECMAScript 2015
+ECMAScript 2016
+ECMAScript 2017
+ECMAScript 2018
+```
+
+Typescript
+```
+TypeScript 1
+TypeScript 2
+TypeScript 3 (Atualmente 3.4.2)
+```
+
+### Conjunto de ferramentas de desenvolvimento ###
+
+Para o uso de Javascript e Typescript, a maioria das ferramentas se assemelham como por exemplo uma IDE ou editor de código como o VS Code e um browser como o Chrome.
+Para o caso do Typescript que precisa ser transpilado para JS é necessário o uso de algumas ferramentas adicionais. Como por exemplo NodeJS para a instação das dependências e de um compilador para ECMAScript.
+
+### Diferenças entre Javascript x Typescript ###
+
+Por se tratar de um superset do JS, o Typescript herda todas as funcionalidades e ainda acrescenta algumas, como por exemplo:
+
+```
+Tipagem opcionalmente estática
+Classes (já há alguma coisa no JS), interfaces e mixins
+Módulos
+Enumeração
+Generics
+Parâmetros opcionais e com valores default
+Tuplas
+Union types
+Alias de tipos
+entre outros
+```
+
+* Estrutura mínima para um programa em NodeJS
+* Hello World em JS
+* Hello World em Typescript
+
+### Estrutura mínima para um programa em NodeJS ###
+
+```javascript
+var http = require('http');
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello Node.JS!');
+}).listen(8080);
+```
+
+### Hello World em JS ###
+
+```javascript
+alert("Hello World!"); // Hello World
+```
+
+### Hello World em Typescript ###
+
+```javascript
+function hello(): string {
+    return "Hello World";
+}
+
+console.log(hello()); // Hello World
+```
