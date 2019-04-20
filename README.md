@@ -11,6 +11,43 @@ Mateus M. Pinto  | 171151666
 Pedro J. B. Bruno  | 171150770
 Victor G. do Nascimento  | 171152158
 
+## Prática Aula 02
+
+**Enunciado:** Para cada linguagem foco, definir: 
+
+* Paradigmas de Programação
+* Tipo da Linguagem (Complilada x Interpretada/ Fortemente x Fracamente Tipada/ Linguagem Script x Programação)
+* Principais Aplicações: Web, IoT, Aplicações Desktop etc
+* Exemplos de uso
+
+### Paradigmas de Programação ###
+
+Dentre os paradigmas de programação do Javascript podemos citar o modelo imperativo, procedural e também orientado a objetos através do uso de protótipos, além de também existir uma grande influência da programação orientada a eventos
+
+### Tipo da Linguagem ###
+
+```
+Compilado em tempo de execução através do motor V8 que utiliza compilação JIT
+Fracamente tipada
+Linguagem de programação
+```
+
+### Principais Aplicações ###
+
+O uso de Javascript está principalmente ligado a Web, tanto no client side quanto no back-end(node.js por exemplo), porém
+hoje já é possível encontrar o uso de JS em aplicações Desktop utilizando Electron por exemplo.
+
+
+### Exemplo de uso ###
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ## Prática Aula 03
 
 **Enunciado:** Para a linguagem foco selecionada(*Javascript*) pesquisar **síntaxe** e **semântica**.
