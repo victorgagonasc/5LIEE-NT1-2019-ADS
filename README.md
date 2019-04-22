@@ -11,6 +11,24 @@ Mateus M. Pinto  | 171151666
 Pedro J. B. Bruno  | 171150770
 Victor G. do Nascimento  | 171152158
 
+### Aula 1 ###
+
+variavel nota1,nota2,nota3
+
+printar (a * 0.3) + (b * 0.3) + (c * 0.4);
+
+------------------------------------------
+
+varivel celsius
+
+printar (((celsius * 9) + 160)/5);
+
+------------------------------------------
+
+variavel peso, altura
+
+printar peso/(altura * altura);
+
 ## Prática Aula 02
 
 **Enunciado:** Para cada linguagem foco, definir: 
