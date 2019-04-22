@@ -430,7 +430,7 @@ https://bit.ly/2Ux2eac
 
 https://bit.ly/2GAizqU
 
-### Exercício 01 - Aula 6 - Funcião fatorial ###
+### Exercício 01 - Aula 6 - Função fatorial ###
 
 https://bit.ly/2W06tgj
 
