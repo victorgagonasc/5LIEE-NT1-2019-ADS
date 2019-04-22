@@ -434,3 +434,6 @@ https://bit.ly/2GAizqU
 
 https://bit.ly/2W06tgj
 
+### Exercício 02 - Aula 6 - Fatorial anonimo ###
+
+https://bit.ly/2UsPaTn
