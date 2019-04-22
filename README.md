@@ -390,3 +390,45 @@ function hello(): string {
 
 console.log(hello()); // Hello World
 ```
+
+## Prática Aula 05
+
+### Levantamento de tipos primitivos simples ###
+
+Null: o conjunto com o único elemento null.
+Boolean: o conjunto com os dois elementos false e true.
+Number: o conjunto de todos os números.
+String: o conjunto de todas as strings.
+
+### Levantamento de tipos primitivos compostos ###
+
+Any: Uma variável do tipo Any pode assumir qualquer valor.
+Void: O void é usado para determinar que um método não retorna nenhum valor.
+Enum: são velhos conhecidos do C#, e usados como “datatype”, que podem definir um status por exemplo.
+
+### Conversão de tipos  ###
+
+https://bit.ly/2IC6wvt
+
+### Coleções  ###
+
+https://bit.ly/2IBy0RY
+
+### Categorias básicas de fluxos de controle  ###
+
+https://bit.ly/2GC3QMk
+
+### Input e Output de informações usando o teclado e o console  ###
+
+https://bit.ly/2Vmvipx
+
+### Exercício 01 - Conversão de Temperatura  ###
+
+https://bit.ly/2Ux2eac
+
+### Exercício 02 - Reajuste de salário  ###
+
+https://bit.ly/2GAizqU
+
+
+
