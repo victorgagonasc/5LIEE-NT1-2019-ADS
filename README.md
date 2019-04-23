@@ -448,10 +448,12 @@ https://bit.ly/2Ux2eac
 
 https://bit.ly/2GAizqU
 
-### Exercício 01 - Aula 6 - Função fatorial ###
+## Prática Aula 06
+
+### Exercício 01 - Função fatorial ###
 
 https://bit.ly/2W06tgj
 
-### Exercício 02 - Aula 6 - Fatorial anonimo ###
+### Exercício 02 - Fatorial anonimo ###
 
 https://bit.ly/2UsPaTn
