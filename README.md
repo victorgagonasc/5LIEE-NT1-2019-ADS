@@ -461,3 +461,7 @@ https://bit.ly/2UsPaTn
 ### Exercício 04 - Aula 6 - Formas ###
 
 https://bit.ly/2PrE68m
+
+### Exercício 05 - Aula 6 - Formas ### 
+
+https://bit.ly/2UQWugO
