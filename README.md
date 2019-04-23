@@ -465,3 +465,23 @@ https://bit.ly/2PrE68m
 ### Exercício 05 - Aula 6 - Formas ### 
 
 https://bit.ly/2UQWugO
+
+## Prática Aula 07
+
+### Diferentes escopos ###
+
+https://bit.ly/2UwDIpR
+
+### Gerenciamento de memória ###
+
+O Typescript utiliza o conceito de Garbage Collection que nada mais é do que o gerenciamento automatico de memória.
+O Garbage Collector localiza objetos que não estão mais sendo utilizados e os exclui para liberar memória
+
+### Prática ###
+
+Ferramentas para análise de código e cálculo de métricas de complexidade e qualidade: Sonar Lint e Code Metrics. Ambos plugins para o VS Code.
+
+Código no github utilizando Typescript: https://github.com/briebug/helloWorld-typescript
+
+Não foi encontrado nenhum problema dentro do diretório src/client utilizando o Sonar Lint
+
