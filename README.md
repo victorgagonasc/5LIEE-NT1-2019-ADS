@@ -457,3 +457,7 @@ https://bit.ly/2W06tgj
 ### Exercício 02 - Fatorial anonimo ###
 
 https://bit.ly/2UsPaTn
+
+### Exercício 04 - Aula 6 - Formas ###
+
+https://bit.ly/2PrE68m
